@@ -25,7 +25,7 @@ class ViewController2: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        //что бы не было текста в кнопке "назад" и "тэги"
+        //что бы не было текста в кнопке "назад"
         backButton.setTitle("", for: .normal)
         //ссылка на музыку
         player = AVPlayer(url: URL(fileURLWithPath: Bundle.main.path(forResource: "sea", ofType: "mp3")!))
