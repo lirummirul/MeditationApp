@@ -14,13 +14,20 @@
 		074BDBE52874801A001676F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 074BDBE42874801A001676F0 /* Assets.xcassets */; };
 		074BDBE82874801A001676F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 074BDBE62874801A001676F0 /* LaunchScreen.storyboard */; };
 		074BDBF228748096001676F0 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074BDBF028748096001676F0 /* ViewController1.swift */; };
-		074BDBF328748096001676F0 /* ViewController1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 074BDBF128748096001676F0 /* ViewController1.xib */; };
-		074BDBF7287480AE001676F0 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074BDBF5287480AE001676F0 /* ViewController2.swift */; };
-		074BDBF8287480AE001676F0 /* ViewController2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 074BDBF6287480AE001676F0 /* ViewController2.xib */; };
 		074BDBFC287480C9001676F0 /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074BDBFA287480C9001676F0 /* ViewController3.swift */; };
-		074BDBFD287480C9001676F0 /* ViewController3.xib in Resources */ = {isa = PBXBuildFile; fileRef = 074BDBFB287480C9001676F0 /* ViewController3.xib */; };
 		074BDC01287480DE001676F0 /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074BDBFF287480DE001676F0 /* ViewController4.swift */; };
-		074BDC02287480DE001676F0 /* ViewController4.xib in Resources */ = {isa = PBXBuildFile; fileRef = 074BDC00287480DE001676F0 /* ViewController4.xib */; };
+		074BDC082875BE43001676F0 /* HelloViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 074BDC072875BE43001676F0 /* HelloViewController.swift */; };
+		07A9ED4928775167004044D2 /* IMG_1035.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED4828775167004044D2 /* IMG_1035.PNG */; };
+		07A9ED4B2879F84A004044D2 /* song1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED4A2879F84A004044D2 /* song1.mp3 */; };
+		07A9ED4D2879F854004044D2 /* song2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED4C2879F854004044D2 /* song2.mp3 */; };
+		07A9ED4F2879F85C004044D2 /* song3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED4E2879F85C004044D2 /* song3.mp3 */; };
+		07A9ED512879F864004044D2 /* song4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED502879F864004044D2 /* song4.mp3 */; };
+		07A9ED5B287B608C004044D2 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A9ED5A287B608C004044D2 /* ViewController2.swift */; };
+		07A9ED5F287B7356004044D2 /* relax.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED5E287B7356004044D2 /* relax.mp3 */; };
+		07A9ED61287B7394004044D2 /* alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED60287B7394004044D2 /* alarm.mp3 */; };
+		07A9ED63287B973C004044D2 /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07A9ED62287B973C004044D2 /* PlayerViewController.swift */; };
+		07A9ED65287C57B7004044D2 /* Son_u_morya_www_oum_ru.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 07A9ED64287C57B7004044D2 /* Son_u_morya_www_oum_ru.mp3 */; };
+		07AA465E2877126600BFAC05 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07AA465D2877126600BFAC05 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,13 +40,20 @@
 		074BDBE72874801A001676F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		074BDBE92874801A001676F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		074BDBF028748096001676F0 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
-		074BDBF128748096001676F0 /* ViewController1.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController1.xib; sourceTree = "<group>"; };
-		074BDBF5287480AE001676F0 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
-		074BDBF6287480AE001676F0 /* ViewController2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController2.xib; sourceTree = "<group>"; };
 		074BDBFA287480C9001676F0 /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
-		074BDBFB287480C9001676F0 /* ViewController3.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController3.xib; sourceTree = "<group>"; };
 		074BDBFF287480DE001676F0 /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
-		074BDC00287480DE001676F0 /* ViewController4.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController4.xib; sourceTree = "<group>"; };
+		074BDC072875BE43001676F0 /* HelloViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloViewController.swift; sourceTree = "<group>"; };
+		07A9ED4828775167004044D2 /* IMG_1035.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_1035.PNG; path = ../../../../Downloads/IMG_1035.PNG; sourceTree = "<group>"; };
+		07A9ED4A2879F84A004044D2 /* song1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song1.mp3; sourceTree = "<group>"; };
+		07A9ED4C2879F854004044D2 /* song2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song2.mp3; sourceTree = "<group>"; };
+		07A9ED4E2879F85C004044D2 /* song3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song3.mp3; sourceTree = "<group>"; };
+		07A9ED502879F864004044D2 /* song4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song4.mp3; sourceTree = "<group>"; };
+		07A9ED5A287B608C004044D2 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		07A9ED5E287B7356004044D2 /* relax.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = relax.mp3; sourceTree = "<group>"; };
+		07A9ED60287B7394004044D2 /* alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm.mp3; sourceTree = "<group>"; };
+		07A9ED62287B973C004044D2 /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
+		07A9ED64287C57B7004044D2 /* Son_u_morya_www_oum_ru.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Son_u_morya_www_oum_ru.mp3; sourceTree = "<group>"; };
+		07AA465D2877126600BFAC05 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,13 +90,28 @@
 				074BDBF9287480B8001676F0 /* ElinaSleep */,
 				074BDBF42874809B001676F0 /* DashaFocus */,
 				074BDBEF28748085001676F0 /* LadaMusic */,
+				07A9ED4A2879F84A004044D2 /* song1.mp3 */,
+				07A9ED4C2879F854004044D2 /* song2.mp3 */,
+				07A9ED4E2879F85C004044D2 /* song3.mp3 */,
+				07A9ED502879F864004044D2 /* song4.mp3 */,
 				074BDBDB28748019001676F0 /* AppDelegate.swift */,
 				074BDBDD2874801A001676F0 /* SceneDelegate.swift */,
 				074BDBDF2874801A001676F0 /* ViewController.swift */,
+				074BDBF028748096001676F0 /* ViewController1.swift */,
+				07A9ED62287B973C004044D2 /* PlayerViewController.swift */,
+				07A9ED5A287B608C004044D2 /* ViewController2.swift */,
+				074BDBFA287480C9001676F0 /* ViewController3.swift */,
+				074BDBFF287480DE001676F0 /* ViewController4.swift */,
+				07AA465D2877126600BFAC05 /* MainViewController.swift */,
+				074BDC072875BE43001676F0 /* HelloViewController.swift */,
 				074BDBE12874801A001676F0 /* Main.storyboard */,
 				074BDBE42874801A001676F0 /* Assets.xcassets */,
+				07A9ED4828775167004044D2 /* IMG_1035.PNG */,
 				074BDBE62874801A001676F0 /* LaunchScreen.storyboard */,
 				074BDBE92874801A001676F0 /* Info.plist */,
+				07A9ED5E287B7356004044D2 /* relax.mp3 */,
+				07A9ED60287B7394004044D2 /* alarm.mp3 */,
+				07A9ED64287C57B7004044D2 /* Son_u_morya_www_oum_ru.mp3 */,
 			);
 			path = Meditation;
 			sourceTree = "<group>";
@@ -90,8 +119,6 @@
 		074BDBEF28748085001676F0 /* LadaMusic */ = {
 			isa = PBXGroup;
 			children = (
-				074BDBF028748096001676F0 /* ViewController1.swift */,
-				074BDBF128748096001676F0 /* ViewController1.xib */,
 			);
 			path = LadaMusic;
 			sourceTree = "<group>";
@@ -99,8 +126,6 @@
 		074BDBF42874809B001676F0 /* DashaFocus */ = {
 			isa = PBXGroup;
 			children = (
-				074BDBF5287480AE001676F0 /* ViewController2.swift */,
-				074BDBF6287480AE001676F0 /* ViewController2.xib */,
 			);
 			path = DashaFocus;
 			sourceTree = "<group>";
@@ -108,8 +133,6 @@
 		074BDBF9287480B8001676F0 /* ElinaSleep */ = {
 			isa = PBXGroup;
 			children = (
-				074BDBFA287480C9001676F0 /* ViewController3.swift */,
-				074BDBFB287480C9001676F0 /* ViewController3.xib */,
 			);
 			path = ElinaSleep;
 			sourceTree = "<group>";
@@ -117,8 +140,6 @@
 		074BDBFE287480CD001676F0 /* AsgatNap */ = {
 			isa = PBXGroup;
 			children = (
-				074BDBFF287480DE001676F0 /* ViewController4.swift */,
-				074BDC00287480DE001676F0 /* ViewController4.xib */,
 			);
 			path = AsgatNap;
 			sourceTree = "<group>";
@@ -181,12 +202,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				074BDBFD287480C9001676F0 /* ViewController3.xib in Resources */,
-				074BDBF8287480AE001676F0 /* ViewController2.xib in Resources */,
-				074BDBF328748096001676F0 /* ViewController1.xib in Resources */,
+				07A9ED4D2879F854004044D2 /* song2.mp3 in Resources */,
+				07A9ED4F2879F85C004044D2 /* song3.mp3 in Resources */,
+				07A9ED5F287B7356004044D2 /* relax.mp3 in Resources */,
+				07A9ED4B2879F84A004044D2 /* song1.mp3 in Resources */,
+				07A9ED65287C57B7004044D2 /* Son_u_morya_www_oum_ru.mp3 in Resources */,
 				074BDBE82874801A001676F0 /* LaunchScreen.storyboard in Resources */,
-				074BDC02287480DE001676F0 /* ViewController4.xib in Resources */,
+				07A9ED512879F864004044D2 /* song4.mp3 in Resources */,
+				07A9ED4928775167004044D2 /* IMG_1035.PNG in Resources */,
 				074BDBE52874801A001676F0 /* Assets.xcassets in Resources */,
+				07A9ED61287B7394004044D2 /* alarm.mp3 in Resources */,
 				074BDBE32874801A001676F0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -198,13 +223,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				074BDBF7287480AE001676F0 /* ViewController2.swift in Sources */,
+				074BDC082875BE43001676F0 /* HelloViewController.swift in Sources */,
 				074BDC01287480DE001676F0 /* ViewController4.swift in Sources */,
+				07A9ED5B287B608C004044D2 /* ViewController2.swift in Sources */,
 				074BDBF228748096001676F0 /* ViewController1.swift in Sources */,
 				074BDBFC287480C9001676F0 /* ViewController3.swift in Sources */,
 				074BDBE02874801A001676F0 /* ViewController.swift in Sources */,
 				074BDBDC28748019001676F0 /* AppDelegate.swift in Sources */,
 				074BDBDE2874801A001676F0 /* SceneDelegate.swift in Sources */,
+				07AA465E2877126600BFAC05 /* MainViewController.swift in Sources */,
+				07A9ED63287B973C004044D2 /* PlayerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
